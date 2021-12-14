@@ -1,2 +1,3 @@
 # pacman-get-installed
-Naive approach to get a list of installed packages from pacman.log
+
+Creates an alphabetically-sorted list of installed packages from `pacman.log`.
